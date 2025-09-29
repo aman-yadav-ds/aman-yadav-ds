@@ -18,10 +18,10 @@
 
 I'm a dedicated **Data Scientist** and **MLOps Engineer** with a passion for transforming complex data into actionable insights. Currently focused on building end-to-end machine learning pipelines and exploring the latest in deep learning technologies.
 
-- 🔭 **Currently Working On:** [Anime Recommender System](https://github.com/aman-yadav-ds/anime-recommender) - Building personalized recommendation algorithms
-- 🌱 **Learning:** Advanced MLOps practices, Deep Learning architectures, and Cloud-native ML solutions
-- 🎯 **Looking to Collaborate:** Open-source ML projects, particularly recommendation systems and computer vision
-- 💡 **Ask Me About:** TensorFlow, Scikit-learn, ML/DL concepts, and MLOps best practices
+- 🔭 **Currently Working On:** [Financial Assistant](https://github.com/aman-yadav-ds/finance_assistant.git) - Building Personalized spending tracker.
+- 🌱 **Learning:** Advanced MLOps practices, Deep Learning architectures, Tranformers, and Cloud-native ML solutions
+- 🎯 **Looking to Collaborate:** Open-source ML projects, particularly NLP and computer vision.
+- 💡 **Ask Me About:** CI/CD implementation, ML/DL concepts, Cloud Infrastructure and MLOps best practices.
 - ⚡ **Fun Fact:** Once I dive into a project, I don't stop until it's perfectly executed!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -37,6 +37,7 @@ I'm a dedicated **Data Scientist** and **MLOps Engineer** with a passion for tra
 ### **Machine Learning & Data Science**
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -48,7 +49,7 @@ I'm a dedicated **Data Scientist** and **MLOps Engineer** with a passion for tra
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ### **Cloud & Databases**
 
@@ -102,8 +103,8 @@ I'm a dedicated **Data Scientist** and **MLOps Engineer** with a passion for tra
 ### 🎬 [Anime Recommender System](https://github.com/aman-yadav-ds/anime-recommender)
 Building a sophisticated recommendation engine using collaborative filtering and deep learning techniques.
 
-### 🎯 Crunchyroll Clone *(Coming Soon)*
-Full-stack streaming platform with personalized content recommendations.
+### 🎯 Financial Assistant *(Coming Soon)*
+Personalized financial alert and spend tracking.
 
 📂 **Explore all my projects:** [GitHub Repositories](https://github.com/aman-yadav-ds?tab=repositories)
 
