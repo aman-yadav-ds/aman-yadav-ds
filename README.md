@@ -37,7 +37,7 @@ I'm a dedicated **Data Scientist** and **MLOps Engineer** with a passion for tra
 ### **Machine Learning & Data Science**
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -49,7 +49,7 @@ I'm a dedicated **Data Scientist** and **MLOps Engineer** with a passion for tra
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-231F20?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ### **Cloud & Databases**
 
