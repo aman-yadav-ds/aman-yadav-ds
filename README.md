@@ -16,7 +16,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a dedicated **Data Scientist** and **MLOps Engineer** with a passion for transforming complex data into actionable insights. Currently focused on building end-to-end machine learning pipelines and exploring the latest in deep learning technologies.
+I'm a dedicated **Data Scientist** and **MLOps Engineer** with a passion for transforming complex data into actionable insights. Currently focused on building end-to-end machine learning pipelines and exploring the latest in deep learning technologies. 
+[![Let's Connect](https://komarev.com/ghpvc/?username=aman-yadav-ds&label=Let's%20Connect&color=0e75b6&style=flat)](https://portfolio-ds-chi.vercel.app/)
 
 - 🔭 **Currently Working On:** [Financial Assistant](https://github.com/aman-yadav-ds/finance_assistant.git) - Building Personalized spending tracker.
 - 🌱 **Learning:** Advanced MLOps practices, Deep Learning architectures, Tranformers, and Cloud-native ML solutions
